@@ -14,7 +14,7 @@ import javax.swing.JLabel;
 public class Frame_demo {
 
     //JFrame = is a GUI window to add components to ;
-   //JLabel = is a GUI display area fotr a String of text,image or both;
+   //JLabel = is a GUI display area for a String of text,image or both;
     public static void main(String[] args) {
         
         
