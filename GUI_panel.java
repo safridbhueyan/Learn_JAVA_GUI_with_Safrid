@@ -10,7 +10,7 @@ import javax.swing.JPanel;
 
 
   //JFrame = is a GUI window to add components to ;
- //JLabel = is a GUI display area fotr a String of text,image or both;
+ //JLabel = is a GUI display area for a String of text,image or both;
 //JPanel = is a GUI component that function as a container to hold other components
 
 public class GUI_panel {
